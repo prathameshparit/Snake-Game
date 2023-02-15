@@ -9,6 +9,6 @@
 </p>
   
 <p>
-<img align="bottom" alt="python" src="https://github.com/prathameshparitSnakeGame/blob/main/gameover.png"  width="600" height="429">
+<img align="bottom" alt="python" src="https://github.com/prathameshparit/SnakeGame/blob/main/gameover.png"  width="600" height="429">
 </p>
 
